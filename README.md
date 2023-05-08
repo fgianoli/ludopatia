@@ -1,4 +1,4 @@
-# APLICAZIONE DELLA LEGGE REGIONALE SUL GIOCO D'AZZARDO IN PROVINCIA DI PADOVA
+# APPLICAZIONE DELLA LEGGE REGIONALE SUL GIOCO D'AZZARDO IN PROVINCIA DI PADOVA
 
 Questo progetto vuole verificare se la posizione dlle slot machine in provincia di Padova rispetta le norme della [LEGGE REGIONALE  n. 38 del 10 settembre 2019
 ](https://bur.regione.veneto.it/BurvServices/pubblica/DettaglioLegge.aspx?id=402726).  

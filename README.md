@@ -23,6 +23,6 @@ Per tutelare determinate categorie di soggetti maggiormente vulnerabili e per pr
 - [Posizione delle slot](https://www.adm.gov.it/portale/monopoli/giochi/apparecchi_intr/elenco_soggetti_ries?pagina=3&id_pagina=2&el=2&form_elenco_soggetti_esercizi=1&prov=PD&comune=G224)
 - [Compro Oro](https://infostat.bancaditalia.it/GIAVAInquiry-public/oro.html)
 - [ATM Poste](https://www.poste.it/resources/editoriali/uffici_postali/altri/SportelloAmico%20_ElencoUP_02052012.xls)
-- Posizione scuole, banche, ATM, [OpenStreetMap](www.openstreetmap.org) e filtro `"fclass" in ('bank','sports_centre','hospital','school','atm')`
+- Posizione scuole, banche, ATM, [OpenStreetMap](www.openstreetmap.org) e filtro `"fclass" in ('atm','bank','hospital','kindergarten','nursing_home','playground','post_office','school','sports_centre','swimming_pool', 'theme_park','university')`
 
 _______

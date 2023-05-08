@@ -33,6 +33,13 @@ Per una dettagliata spiegazione dei TAG di OSM riferirsi alla [documentazione](h
 
 _______
 
-## RISULATI
+## RISULTATI
+
+* Mappa di inquadramento *
 
 ![mappa1](https://github.com/fgianoli/ludopatia/blob/main/img/mappa_1.jpg)
+
+* Densità di slot/abitanti *
+
+![Slot per abitante](https://github.com/fgianoli/ludopatia/blob/main/img/slot_hab.jpg)
+

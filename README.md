@@ -32,3 +32,7 @@ Per tutelare determinate categorie di soggetti maggiormente vulnerabili e per pr
 Per una dettagliata spiegazione dei TAG di OSM riferirsi alla [documentazione](https://wiki.openstreetmap.org/wiki/Main_Page)
 
 _______
+
+## RISULATI
+
+![mappa1](https://github.com/fgianoli/ludopatia/blob/main/img/mappa_1.jpg)

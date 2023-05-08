@@ -3,7 +3,7 @@
 Questo progetto vuole verificare se la posizione dlle slot machine in provincia di Padova rispetta le norme della [LEGGE REGIONALE  n. 38 del 10 settembre 2019
 ](https://bur.regione.veneto.it/BurvServices/pubblica/DettaglioLegge.aspx?id=402726).  
 Si specifica che la legge si applica alle nuove installazioni, per questo progetto invece utilizzeremo l'intero dataset di slotmachine per vedere quali sarebbero mal posizionate.
-Il lavoro prende spunto da un [progetto analogo](https://github.com/skampus/ludopatia) di Stefano Campus per la Regione Piemonte.
+Il lavoro prende spunto da un [progetto analogo](https://github.com/skampus/ludopatia) di @skampus Stefano Campus per la Regione Piemonte.
 
 I parametri da seguire sono:
 

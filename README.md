@@ -53,7 +53,7 @@ ______
 ## Dati tabulari
 
 
-| Codistat | Nomcom                        | Provincia | N_slot | Slot_No | Comune                            | M     | F      | TOT    |
+| Codistat | Nomcom                        | Provincia | N_slot | Slot_Non_norma | Comune                            | M     | F      | TOT    |
 |:--------:|:-----------------------------:|:---------:|:------:|:-------:|:---------------------------------:|:-----:|:------:|:------:|
 | 28001    | Abano Terme                   | PD        | 21     | 22      |     Abano Terme                   | 9653  | 10578  | 20231  |
 | 28002    | Agna                          | PD        | 3      | 3       |     Agna                          | 1554  | 1603   | 3157   |

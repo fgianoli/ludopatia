@@ -29,7 +29,8 @@ Per tutelare determinate categorie di soggetti maggiormente vulnerabili e per pr
 - [Dati geografici](https://idt2.regione.veneto.it/) 
 - [Popolazione](http://dati.istat.it/Index.aspx?QueryId=18549)
 
-Per una dettagliata spiegazione dei TAG di OSM riferirsi alla [documentazione](https://wiki.openstreetmap.org/wiki/Main_Page)
+Per una dettagliata spiegazione dei TAG di OSM riferirsi alla [documentazione](https://wiki.openstreetmap.org/wiki/Main_Page)  
+
 
 _______
 

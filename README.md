@@ -54,7 +54,7 @@ ______
 
 ## Dati tabulari
 
-| Codistat | Nomcom                        | Provincia | N_slot | Slot_No | M     | F      | TOT    | Area_km2 | Dens_pop |
+| Codistat | Nomcom                        | Provincia | N_slot | Slot_Non_Regola | M     | F      | TOT    | Area_km2 | Dens_pop |
 |:--------:|:-----------------------------:|:---------:|:------:|:-------:|:-----:|:------:|:------:|:--------:|:--------:|
 | 28001    | Abano Terme                   | PD        | 22     | 14      | 9653  | 10578  | 20231  | 21.53    | 939.67   |
 | 28002    | Agna                          | PD        | 3      | 2       | 1554  | 1603   | 3157   | 18.87    | 167.3    |

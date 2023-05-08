@@ -24,5 +24,10 @@ Per tutelare determinate categorie di soggetti maggiormente vulnerabili e per pr
 - [Compro Oro](https://infostat.bancaditalia.it/GIAVAInquiry-public/oro.html)
 - [ATM Poste](https://www.poste.it/resources/editoriali/uffici_postali/altri/SportelloAmico%20_ElencoUP_02052012.xls)
 - Posizione scuole, banche, ATM, [OpenStreetMap](www.openstreetmap.org) e filtro `"fclass" in ('atm','bank','hospital','kindergarten','nursing_home','playground','post_office','school','sports_centre','swimming_pool', 'theme_park','university')`
+- [Luoghi di culto](www.openstreetmap.org)
+- [Stazioni ferroviarie e corriere](www.openstreetmap.org) filtro `"fclass" in('bus_station','railway_station')`
+- [Dati geografici](https://idt2.regione.veneto.it/)
+
+Per una dettagliata spiegazione dei TAG di OSM riferirsi alla [documentazione](https://wiki.openstreetmap.org/wiki/Main_Page)
 
 _______
